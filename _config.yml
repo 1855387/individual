@@ -1,16 +1,1 @@
-theme: jekyll-theme-modernist
-title: Tri3 Charlie
-description: Individual Jekyll
-email: "charliez56712345@gmail.com"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-markdown: redcarpet
-redcarpet:
-  extensions:
-    - no_intra_emphasis
-    - fenced_code_blocks
-    - autolink
-    - tables
-    - strikethrough
-    - superscript
-    - with_to_data
+theme: jekyll-theme-cayman
