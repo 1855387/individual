@@ -2,6 +2,27 @@
 
 # Tech Talk Notes
 
+# Tech Talk 2
+
+## Team Notes
+
+![Landing](https://user-images.githubusercontent.com/54718041/159974329-dceb59ac-0888-406e-881f-1c6ea6a27f7d.png)
+- The goal of our project is to authenticate users through Spring
+- The large vision is being able to teach everyone how to utilize it, as well as having a large centralized login system that everyone can utilize.
+
+## Calculator
+
+- Build a calculator to process expressions and ultimately change RPN to a calculation.
+``` java
+    public String toString() {
+        return ("Original expression: " + this.expression + "\n" +
+                "Tokenized expression: " + this.tokens.toString() + "\n" +
+                "Reverse Polish Notation: " +this.reverse_polish.toString() + "\n" +
+                "Final result: " + String.format("%.2f", this.result));
+    }
+```
+- Code used above is to print the numbers into different formats and truly lets you see what RPN notation is supposed to look like etc.
+
 # Tech Talk 1
 
 ## Linked Lists
@@ -23,7 +44,7 @@
 - There are many algorithms for different purposes and they interact with different data structures.
 - Think of algorithms as dynamic underlying pieces that interact with data structures.
 - EX:
-```
+``` java
 public void swapToLowHighOrder(IntByReference i) {
         if (this.value > i.value) {
             int temp = this.value;
@@ -42,7 +63,7 @@ public void swapToLowHighOrder(IntByReference i) {
 - Reusable, OOP classes can be used across programs by simply making an object.
 - We have learned about many key aspects of OOP.
 - OO based matrix alteration
-```
+``` java
 public String reverse() {
         // outer loop starting at end row
         StringBuilder output = new StringBuilder();
