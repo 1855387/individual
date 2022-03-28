@@ -1,11 +1,11 @@
 {% include navigation.html %}
 
-# Allen-Individual-Tri3
+# Charlie-Individual-Tri3
 
 ## Github Pages Link
-[Allen Github Page](https://purplebears321.github.io/Allen-Individual-Tri3/)
+[Charlie Github Page](https://1855387.github.io/individual/Repl)
 ## Replit Link
-[Allen Individual Repl](https://replit.com/@purplebears321/allenTT0#README.md)
+[Charlie Individual Repl](https://replit.com/@CharlieZhu2/Charlie-T3-Individual-Code)
 ## Review Tickets
 
 | Week # | Review Ticket Link |
