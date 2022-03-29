@@ -6,10 +6,12 @@
 [Charlie Github Page](https://1855387.github.io/individual/Repl)
 ## Replit Link
 [Charlie Individual Repl](https://replit.com/@CharlieZhu2/IndividualCSAR#Calculator.java)
+## Team Repository
+[Btbw Team Repository](https://github.com/kylem314/btbw)
 ## Review Tickets
 
 | Week # | Review Ticket Link |
 | ---   | ---    |
-| 0 | [Page Setup](https://github.com/zenxha/musicgacha/projects/1#card-79282549)|
-| 1 | [Navigation](https://github.com/zenxha/musicgacha/projects/1#card-79337624) |
-| 2 | [Navigation](https://github.com/zenxha/musicgacha/projects/1#card-79337624) |
+| 0 | [Crossover Grading 1](https://github.com/1855387/individual/issues/1)|
+| 1 | [Crossover Grading 2](https://github.com/1855387/individual/issues/2) |
+| 2 | [Data Structures Challenge 2 + Team Grading](https://github.com/1855387/individual/issues/3) |
