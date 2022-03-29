@@ -41,6 +41,7 @@
                             calc.push(Math.pow(num1, num2));
 ```
 - The following code was implemented to account for each of the cases that the user would ask for in terms of calculation and do the following calculation based on what they asked for.
+
 # Tech Talk 1
 
 ## Linked Lists
