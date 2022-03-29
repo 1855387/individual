@@ -22,7 +22,25 @@
     }
 ```
 - Code used above is to print the numbers into different formats and truly lets you see what RPN notation is supposed to look like etc.
-
+``` java
+                            calc.push(num1 + num2);
+                            break;
+                        case "-":
+                            calc.push(num1 - num2);
+                            break;
+                        case "*":
+                            calc.push(num1 * num2);
+                            break;
+                        case "/":
+                            calc.push(num1 / num2);
+                            break;
+                        case "%":
+                            calc.push(num1 % num2);
+                            break;
+                        case "^" :
+                            calc.push(Math.pow(num1, num2));
+```
+- The following code was implemented to account for each of the cases that the user would ask for in terms of calculation and do the following calculation based on what they asked for.
 # Tech Talk 1
 
 ## Linked Lists
