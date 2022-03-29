@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 # Charlie-Individual-Tri3
 
 ## Github Pages Link
